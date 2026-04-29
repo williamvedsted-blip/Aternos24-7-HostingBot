@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "light_smp-9hs3.aternos.me:22123",
-    "port": 22123,
+    "ip": "lightsmp-6nZ9.aternos.me",
+    "port": 21495,
     "version": "",
     "try-creative": false
   },
